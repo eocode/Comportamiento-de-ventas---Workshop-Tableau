@@ -4,7 +4,9 @@
 Comportamiento de ventas en Tableau
 
 ## Tabla de Contenido<!-- omit in toc -->
-- [¿Qué es la inteligencia de negocios?](#qué-es-la-inteligencia-de-negocios)
+- [El proyecto](#el-proyecto)
+  - [Requisitos](#requisitos)
+  - [Resultado](#resultado)
 
 # El proyecto
 
